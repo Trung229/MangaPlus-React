@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d31476f.chunk.css",
+    "main.js": "/static/js/main.c2736c7f.chunk.js",
+    "main.js.map": "/static/js/main.c2736c7f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb6dcbf6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb6dcbf6.js.map",
+    "static/js/2.77df9fba.chunk.js": "/static/js/2.77df9fba.chunk.js",
+    "static/js/2.77df9fba.chunk.js.map": "/static/js/2.77df9fba.chunk.js.map",
+    "static/js/3.2d3583e0.chunk.js": "/static/js/3.2d3583e0.chunk.js",
+    "static/js/3.2d3583e0.chunk.js.map": "/static/js/3.2d3583e0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8d31476f.chunk.css.map": "/static/css/main.8d31476f.chunk.css.map",
+    "static/js/2.77df9fba.chunk.js.LICENSE.txt": "/static/js/2.77df9fba.chunk.js.LICENSE.txt",
+    "static/media/Jujutsu.2eed20a4.jpeg": "/static/media/Jujutsu.2eed20a4.jpeg",
+    "static/media/aivalable-on-the-app-store-2.5fa8a709.svg": "/static/media/aivalable-on-the-app-store-2.5fa8a709.svg",
+    "static/media/app_icon.919a13c7.19b54f1b.png": "/static/media/app_icon.919a13c7.19b54f1b.png",
+    "static/media/festival1.3abbae68.jpeg": "/static/media/festival1.3abbae68.jpeg",
+    "static/media/festival2.8fe1a3a8.jpeg": "/static/media/festival2.8fe1a3a8.jpeg",
+    "static/media/google-2.92329c41.svg": "/static/media/google-2.92329c41.svg",
+    "static/media/onepiece.6392ac11.jpeg": "/static/media/onepiece.6392ac11.jpeg",
+    "static/media/samurai.0d6dfc00.jpeg": "/static/media/samurai.0d6dfc00.jpeg",
+    "static/media/web__logo.679e4612.png": "/static/media/web__logo.679e4612.png",
+    "static/media/web_logo_190118_light.c773f9e9.5e022e13.png": "/static/media/web_logo_190118_light.c773f9e9.5e022e13.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb6dcbf6.js",
+    "static/js/2.77df9fba.chunk.js",
+    "static/css/main.8d31476f.chunk.css",
+    "static/js/main.c2736c7f.chunk.js"
+  ]
+}
