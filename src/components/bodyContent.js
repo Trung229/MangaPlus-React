@@ -21,13 +21,13 @@ const bodyContent = () => {
                             </div>
                             <div className="row full-width reset-margin">
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga1})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -39,13 +39,13 @@ const bodyContent = () => {
                                 </div>
 
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga2})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -56,13 +56,13 @@ const bodyContent = () => {
                                     </div>
                                 </div>
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga3})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -74,13 +74,13 @@ const bodyContent = () => {
                                 </div>
 
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga1})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -92,13 +92,13 @@ const bodyContent = () => {
                                 </div>
 
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga2})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -109,13 +109,13 @@ const bodyContent = () => {
                                     </div>
                                 </div>
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga3})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -127,13 +127,13 @@ const bodyContent = () => {
                                 </div>
 
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga1})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -145,13 +145,13 @@ const bodyContent = () => {
                                 </div>
 
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga2})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -162,13 +162,13 @@ const bodyContent = () => {
                                     </div>
                                 </div>
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga3})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -180,13 +180,13 @@ const bodyContent = () => {
                                 </div>
 
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga1})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -198,13 +198,13 @@ const bodyContent = () => {
                                 </div>
 
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga2})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -215,13 +215,13 @@ const bodyContent = () => {
                                     </div>
                                 </div>
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga3})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -233,13 +233,13 @@ const bodyContent = () => {
                                 </div>
 
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga1})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -251,13 +251,13 @@ const bodyContent = () => {
                                 </div>
 
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga2})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -268,13 +268,13 @@ const bodyContent = () => {
                                     </div>
                                 </div>
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga3})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -285,13 +285,13 @@ const bodyContent = () => {
                                     </div>
                                 </div>
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga1})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -303,13 +303,13 @@ const bodyContent = () => {
                                 </div>
 
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga2})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">
@@ -320,13 +320,13 @@ const bodyContent = () => {
                                     </div>
                                 </div>
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
-                                    <a className="content__item-manga" href="">
+                                    <div>
                                         <div className="content__img" style={{ backgroundImage: `url(${manga3})` }}></div>
                                         <div className="content__manga__info">
                                             <p className="content__name__manga">Nisekoi: False Love</p>
                                             <p className="content__author__manga">Naoshi Komi</p>
                                         </div>
-                                    </a>
+                                    </div>
 
                                     <div className="content__chap-detail">
                                         <div className="chap__lasted">

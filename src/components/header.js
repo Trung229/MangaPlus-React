@@ -17,19 +17,19 @@ const header = () => {
                 <label for="nav__moblie-input" className="nav__overlay">
                     <ul className="header__nav-list">
                         <li className="header__nav-item">
-                            <a href="">Updates</a>
+                            <div>Updates</div>
                         </li>
                         <li className="header__nav-item">
-                            <a href="">Features</a>
+                            <div>Features</div>
                         </li>
                         <li className="header__nav-item">
-                            <a href="">Manga List</a>
+                            <div>Manga List</div>
                         </li>
                         <li className="header__nav-item">
-                            <a href="">Favorites</a>
+                            <div>Favorites</div>
                         </li>
                         <li className="header__nav-item">
-                            <a href="">About us</a>
+                            <div>About us</div>
                         </li>
                     </ul>
 
@@ -51,27 +51,27 @@ const header = () => {
                 <div className="header__nav-text">
                     <ul className="header__nav-list">
                         <li className="header__nav-item">
-                            <a href="">Updates</a>
+                            <div>Updates</div>
                         </li>
                         <li className="header__nav-item">
-                            <a href="">Features</a>
+                            <div>Features</div>
                         </li>
                         <li className="header__nav-item">
-                            <a href="">Manga List</a>
+                            <div>Manga List</div>
                         </li>
                         <li className="header__nav-item">
-                            <a href="">Favorites</a>
+                            <div>Favorites</div>
                         </li>
                         <li className="header__nav-item">
-                            <a href="">About us</a>
+                            <div>About us</div>
                         </li>
                     </ul>
                 </div>
                 <form className="header__search">
                     <input className="header__search-input" type="text" placeholder="Search by title or author" />
-                    <a href="">
+                    <div>
                         <i className="fas fa-search"></i>
-                    </a>
+                    </div>
                 </form>
             </div>
             <div className="header__navbar-special">
