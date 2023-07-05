@@ -26,22 +26,22 @@ const footer = () => {
                             <div class="footer__nav">
                                 <ul class="footer__list">
                                     <li class="footer__item">
-                                        <a href="">Help / FAQs</a>
+                                        <div>Help / FAQs</div>
                                     </li>
                                     <li class="footer__item">
-                                        <a href="">News and Events</a>
+                                        <div>News and Events</div>
                                     </li>
                                     <li class="footer__item">
-                                        <a href="">Feedback</a>
+                                        <div>Feedback</div>
                                     </li>
                                     <li class="footer__item">
-                                        <a href="">Privacy Policy</a>
+                                        <div>Privacy Policy</div>
                                     </li>
                                     <li class="footer__item">
-                                        <a href="">Terms of Services</a>
+                                        <div>Terms of Services</div>
                                     </li>
                                     <li class="footer__item">
-                                        <a href="">Copyrights</a>
+                                        <div>Copyrights</div>
                                     </li>
                                 </ul>
                             </div>
@@ -56,18 +56,18 @@ const footer = () => {
                         </div>
                         <div class="footer__nav-download">
                             <img class="icon-logo" src={appIcon} width="80px" height="80px"
-                            alt="" />
+                                alt="" />
                             <div class="icon-download">
                                 <p>Download the app and read it anytime!</p>
                                 <div class="nav-download">
-                                    <a href="">
+                                    <div>
                                         <img class="icon-appstore" src={appStore}
                                             width="120px" height="40px" alt="" />
-                                    </a>
-                                    <a href="">
+                                    </div>
+                                    <div>
                                         <img class="icon-appstore" src={chPlay} width="120px"
                                             height="40px" alt="" />
-                                    </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>

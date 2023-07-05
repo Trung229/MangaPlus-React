@@ -15,9 +15,9 @@ const bodyContent = () => {
                         <div className="content__list-manga full-width">
                             <div className="content__info-update full-width">
                                 <div className="content__label">Daily updates</div>
-                                <a href="#" className="btn__label">All updates
+                                <div>All updates
                                     <i className="icon-nav fas fa-chevron-right"></i>
-                                </a>
+                                </div>
                             </div>
                             <div className="row full-width reset-margin">
                                 <div className="col mrb-8px l-2-4 m-2-4 c-6 ">
@@ -443,12 +443,12 @@ const bodyContent = () => {
                     <div className="col l-2">
                         <div className="content__nav-manga">
                             <div className="content__nav-social">
-                                <a href="">Discord
+                                <div>Discord
                                     <i className="fab fa-discord"></i>
-                                </a>
-                                <a href="">Facebook
+                                </div>
+                                <div>Facebook
                                     <i className="fab fa-facebook-square"></i>
-                                </a>
+                                </div>
                             </div>
                             <div className="content__nav-top-manga">
                                 <div className="header__top-manga">
@@ -457,7 +457,7 @@ const bodyContent = () => {
                                     </h1>
                                 </div>
                                 <div className="content__top-list">
-                                    <a href="">
+                                    <div>
 
                                         <div className="content__ranking-item">
                                             <img className="content__ranking-img" src={manga1} alt="" />
@@ -469,23 +469,9 @@ const bodyContent = () => {
                                                 </p>
                                             </div>
                                         </div>
-                                    </a>
+                                    </div>
 
-                                    <a href="">
-
-                                        <div className="content__ranking-item">
-                                            <img className="content__ranking-img" src={manga1} alt="" />
-                                            <div className="content__ranking-info">
-                                                <p className="content__ranking-name"> One Piece</p>
-                                                <p className="content__ranking-author"> Eiichiro Oda</p>
-                                                <p className="content__ranking-view">
-                                                    <i className="fas fa-fire-alt"></i> 715,427
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </a>
-
-                                    <a href="">
+                                    <div>
 
                                         <div className="content__ranking-item">
                                             <img className="content__ranking-img" src={manga1} alt="" />
@@ -497,23 +483,9 @@ const bodyContent = () => {
                                                 </p>
                                             </div>
                                         </div>
-                                    </a>
+                                    </div>
 
-                                    <a href="">
-
-                                        <div className="content__ranking-item">
-                                            <img className="content__ranking-img" src={manga1} alt="" />
-                                            <div className="content__ranking-info">
-                                                <p className="content__ranking-name"> One Piece</p>
-                                                <p className="content__ranking-author"> Eiichiro Oda</p>
-                                                <p className="content__ranking-view">
-                                                    <i className="fas fa-fire-alt"></i> 715,427
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </a>
-
-                                    <a href="">
+                                    <div>
 
                                         <div className="content__ranking-item">
                                             <img className="content__ranking-img" src={manga1} alt="" />
@@ -525,7 +497,35 @@ const bodyContent = () => {
                                                 </p>
                                             </div>
                                         </div>
-                                    </a>
+                                    </div>
+
+                                    <div>
+
+                                        <div className="content__ranking-item">
+                                            <img className="content__ranking-img" src={manga1} alt="" />
+                                            <div className="content__ranking-info">
+                                                <p className="content__ranking-name"> One Piece</p>
+                                                <p className="content__ranking-author"> Eiichiro Oda</p>
+                                                <p className="content__ranking-view">
+                                                    <i className="fas fa-fire-alt"></i> 715,427
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div>
+
+                                        <div className="content__ranking-item">
+                                            <img className="content__ranking-img" src={manga1} alt="" />
+                                            <div className="content__ranking-info">
+                                                <p className="content__ranking-name"> One Piece</p>
+                                                <p className="content__ranking-author"> Eiichiro Oda</p>
+                                                <p className="content__ranking-view">
+                                                    <i className="fas fa-fire-alt"></i> 715,427
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
 
 
 
@@ -534,11 +534,11 @@ const bodyContent = () => {
 
 
                                 </div>
-                                <a href="" className="content__nav-view-all">
+                                <div>
                                     View all
                                     <i className="icon-nav fas fa-chevron-right"></i>
 
-                                </a>
+                                </div>
                             </div>
                         </div>
                     </div>
